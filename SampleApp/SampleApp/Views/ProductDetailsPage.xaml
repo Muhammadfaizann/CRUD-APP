@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SampleApp.Views.ProductDetailsPage"
+             x:Name="detailsView"
+             Title="Product Details">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Edit" Clicked="Edit_ClickedAsync" />
+        <ToolbarItem Text="Delete" Clicked="Delete_ClickedAsync" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+       
+        <StackLayout>
+            <StackLayout Padding="40" BindingContext="{Binding Source={x:Reference detailsView}, Path=BindingContext.SelectedProduct}">
+
+                <Label Text="Id:"/>
+                <Label x:Name="txtId"  Text="{Binding Id, Mode=TwoWay}"/>
+                <Label Text="Name:"/>
+                <Label x:Name="txtName"  Text="{Binding Name, Mode=TwoWay}"/>
+                <Label Text="Description:"/>
+                <Label x:Name="txtDescription"  Text="{Binding Description, Mode=TwoWay}"/>
+                <Label Text="Price:"/>
+                <Label x:Name="txtPrice"  Text="{Binding Price, Mode=TwoWay}"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

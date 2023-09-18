@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "040be4da-83cc-4bec-a1de-58c9b4a84c68": {
+      "ProjectGuid": "040be4da-83cc-4bec-a1de-58c9b4a84c68",
+      "DisplayName": "SampleApp",
+      "ColorIndex": 0
+    },
+    "1442e739-0123-4a67-8de8-f29d3681da98": {
+      "ProjectGuid": "1442e739-0123-4a67-8de8-f29d3681da98",
+      "DisplayName": "SampleApp.iOS",
+      "ColorIndex": 1
+    },
+    "fb6993e6-a8dc-44f9-92f5-9ca0c27b91d0": {
+      "ProjectGuid": "fb6993e6-a8dc-44f9-92f5-9ca0c27b91d0",
+      "DisplayName": "SampleApp.Android",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5c651c6a-6112-418b-a694-22e516c26e61": {
+      "ProjectGuid": "5c651c6a-6112-418b-a694-22e516c26e61",
+      "DisplayName": "WebApplication",
+      "ColorIndex": 3
+    },
+    "41b30989-a44e-4c82-836d-e140d26b7aae": {
+      "ProjectGuid": "41b30989-a44e-4c82-836d-e140d26b7aae",
+      "DisplayName": "ServerApplication",
+      "ColorIndex": 4
+    },
+    "438b9aa2-1d7b-4e61-9769-b9f4c16acb0a": {
+      "ProjectGuid": "438b9aa2-1d7b-4e61-9769-b9f4c16acb0a",
+      "DisplayName": "SampleServerApplication",
+      "ColorIndex": 5
+    },
+    "9bf7a6f3-ef3e-4344-a44a-2023a1447d71": {
+      "ProjectGuid": "9bf7a6f3-ef3e-4344-a44a-2023a1447d71",
+      "DisplayName": "ServerApplication",
+      "ColorIndex": 6
+    },
+    "7127c705-5cd4-421b-801c-374507545453": {
+      "ProjectGuid": "7127c705-5cd4-421b-801c-374507545453",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

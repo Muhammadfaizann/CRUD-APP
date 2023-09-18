@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:dataForm="clr-namespace:Syncfusion.XForms.DataForm;assembly=Syncfusion.SfDataForm.XForms"
+             x:Class="SampleApp.Views.UpdateProductPage"
+             x:Name="UpdateView">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Update"
+                     Clicked="ToolbarItem_ClickedAsync"
+                
+                  />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout Padding="40" BindingContext="{Binding Source={x:Reference UpdateView}, Path=BindingContext.SelectedProduct}">
+           
+            <Label Text="Id:"/>
+            <Entry x:Name="txtId" Placeholder="Id" Text="{Binding Id, Mode=TwoWay}"/>
+            <Label Text="Name:"/>
+            <Entry x:Name="txtName" Placeholder="Name" Text="{Binding Name, Mode=TwoWay}"/>
+            <Label Text="Description:"/>
+            <Entry x:Name="txtDescription" Placeholder="Description" Text="{Binding Description, Mode=TwoWay}"/>
+            <Label Text="Price:"/>
+            <Entry x:Name="txtPrice" Placeholder="Price" Text="{Binding Price, Mode=TwoWay}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

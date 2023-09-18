@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit" 
+             xmlns:forms="clr-namespace:FFImageLoading.Svg.Forms;assembly=FFImageLoading.Svg.Forms"
+             xmlns:syncfusion="clr-namespace:Syncfusion.ListView.XForms;assembly=Syncfusion.SfListView.XForms" xmlns:sfPopup="clr-namespace:Syncfusion.XForms.PopupLayout;assembly=Syncfusion.SfPopupLayout.XForms" xmlns:dataForm="clr-namespace:Syncfusion.XForms.DataForm;assembly=Syncfusion.SfDataForm.XForms" xmlns:syncfusion1="clr-namespace:Syncfusion.SfDataGrid.XForms;assembly=Syncfusion.SfDataGrid.XForms"
+             x:Class="SampleApp.Views.LandingPage"
+             x:Name="landingview"
+             Title="Home"
+             >
+    <ContentPage.Resources>
+        <xct:InvertedBoolConverter x:Key="InvertedBoolConverter" />
+    </ContentPage.Resources>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add" Clicked="AddItem_Clicked" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <Grid RowDefinitions="*">
+            <syncfusion:SfListView x:Name="listView"
+                Grid.Row="0"
+                SelectedItem="{Binding SelectedProduct}"
+                HeaderSize="50"
+                SelectionChanged="listView_SelectionChangedAsync"
+                ItemSize="50"
+                ItemsSource="{Binding ProductList, Mode=TwoWay}"
+                SelectionMode="Single">
+                <syncfusion:SfListView.HeaderTemplate>
+                    <DataTemplate>
+                        <Grid
+                            Padding="5,15"
+                            ColumnDefinitions="Auto"
+                            RowDefinitions="Auto">
+                            <Label
+                                Grid.Row="0"
+                                Grid.Column="0"
+                                FontSize="Small"
+                                Text="Product Listing:"
+                                TextColor="Black" />
+
+                        </Grid>
+                    </DataTemplate>
+                </syncfusion:SfListView.HeaderTemplate>
+                <syncfusion:SfListView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame
+                            x:Name="frame"
+                            Padding="10"
+                            BackgroundColor="#F7F9F9"
+                            CornerRadius="5"
+                            HasShadow="False"
+                            VerticalOptions="Center">
+
+
+                            <Grid ColumnDefinitions="*,*,*,*" RowDefinitions="Auto">
+
+
+                                <Label
+                                    Grid.Row="0"
+                                    Grid.Column="0"
+                                    FontSize="Small"
+                                    Text="{Binding Id}"
+                                    VerticalOptions="Center" />
+                                <Label
+                                    Grid.Row="0"
+                                    Grid.Column="1"
+                                    FontSize="Small"
+                                    Text="{Binding Name}"
+                                    VerticalOptions="Center" />
+                                <Label
+                                    Grid.Row="0"
+                                    Grid.Column="2"
+                                    FontSize="Small"
+                                    Text="{Binding Description}"
+                                    VerticalOptions="Center" />
+                                <Label
+                                    Grid.Row="0"
+                                    Grid.Column="3"
+                                    FontSize="Small"
+                                    Text="{Binding Price}"
+                                    VerticalOptions="Center" />
+                            </Grid>
+                        </Frame>
+                    </DataTemplate>
+                </syncfusion:SfListView.ItemTemplate>
+                
+            </syncfusion:SfListView>
+            
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

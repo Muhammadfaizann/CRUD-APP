@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:dataForm="clr-namespace:Syncfusion.XForms.DataForm;assembly=Syncfusion.SfDataForm.XForms"
+             x:Class="SampleApp.Views.AddProductPage"
+             Title="Add new product">
+    
+        <ContentPage.ToolbarItems>
+            <ToolbarItem Text="Cancel" Clicked="Cancel_Clicked" />
+            <ToolbarItem Text="Save" Clicked="Save_Clicked" />
+        </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <dataForm:SfDataForm Margin="20" x:Name="dataForm"
+                                 LabelPosition="Top"
+                                 LayoutOptions="TextInputLayout"
+                                 DataObject="{Binding NewProduct}"/>
+
+    </ContentPage.Content>
+</ContentPage>

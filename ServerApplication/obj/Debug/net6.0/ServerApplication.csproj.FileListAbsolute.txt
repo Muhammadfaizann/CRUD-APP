@@ -1,0 +1,154 @@
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/obj/Debug/net6.0/ServerApplication.csproj.AssemblyReference.cache
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/obj/Debug/net6.0/ServerApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/obj/Debug/net6.0/ServerApplication.AssemblyInfoInputs.cache
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/obj/Debug/net6.0/ServerApplication.AssemblyInfo.cs
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/obj/Debug/net6.0/ServerApplication.csproj.CoreCompileInputs.cache
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/obj/Debug/net6.0/ServerApplication.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/obj/Debug/net6.0/ServerApplication.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/appsettings.json
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/ServerApplication.exe
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/ServerApplication.deps.json
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/ServerApplication.runtimeconfig.json
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/ServerApplication.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/ref/ServerApplication.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/ServerApplication.pdb
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/obj/Debug/net6.0/scopedcss/bundle/ServerApplication.styles.css
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/obj/Debug/net6.0/ServerApplication.csproj.CopyComplete
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/obj/Debug/net6.0/ServerApplication.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/obj/Debug/net6.0/ref/ServerApplication.dll
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/obj/Debug/net6.0/ServerApplication.pdb
+C:/Users/Admin/source/repos/SampleApp/ServerApplication/obj/Debug/net6.0/ServerApplication.genruntimeconfig.cache
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/ServerApplication.csproj.AssemblyReference.cache
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/ServerApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/ServerApplication.AssemblyInfoInputs.cache
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/ServerApplication.AssemblyInfo.cs
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/ServerApplication.csproj.CoreCompileInputs.cache
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/ServerApplication.MvcApplicationPartsAssemblyInfo.cs
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/ServerApplication.MvcApplicationPartsAssemblyInfo.cache
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/ServerApplication.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/ServerApplication.pdb
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/appsettings.Development.json
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/appsettings.json
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/ServerApplication
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/ServerApplication.deps.json
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/ServerApplication.runtimeconfig.json
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/ServerApplication.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/ServerApplication.pdb
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/AutoMapper.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Azure.Core.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Azure.Identity.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Humanizer.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/NWebsec.AspNetCore.Core.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/System.CodeDom.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/System.Text.Json.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/staticwebassets/msbuild.ServerApplication.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/staticwebassets/msbuild.build.ServerApplication.props
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ServerApplication.props
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ServerApplication.props
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/staticwebassets.build.json
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/staticwebassets.development.json
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/scopedcss/bundle/ServerApplication.styles.css
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/ServerApplication.csproj.CopyComplete
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/refint/ServerApplication.dll
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/ServerApplication.genruntimeconfig.cache
+/Users/faizan/Downloads/CRUD APP/ServerApplication/obj/Debug/net6.0/ref/ServerApplication.dll
